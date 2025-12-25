@@ -173,3 +173,22 @@ Zoe
 Zyra
 
 - Regions
+Bandle city
+Bilgewater
+Demacia
+Ionia
+Ixtal
+Noxus
+Targon
+(The) Freljord
+(The) Void
+Zaun
+
+- TFT champs
+// https://wiki.leagueoflegends.com/en-us/TFT:List_of_champions
+
+- TFT Items
+// https://wiki.leagueoflegends.com/en-us/TFT:Item#Current
+
+- Arcane (main) characters
+// https://wiki.leagueoflegends.com/en-us/Category:Characters_in_Arcane_(TV_Series)
