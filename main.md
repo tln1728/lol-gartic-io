@@ -106,7 +106,7 @@ Rakan
 Rammus
 Rek'Sai
 Rell
-Renata
+Renata (Glasc)
 Renekton
 Rengar
 Riven
