@@ -1,212 +1,414 @@
 # Champions (172) 🟢
+<details open>
+
 - Aatrox
+
 - Ahri
+
 - Akali
+
 - Akshan
+
 - Alistar
+
 - Ambessa
+
 - Amumu
+
 - Anivia
+
 - Annie
+
 - Aphelios
+
 - Ashe
+
 - Aurelion sol
+
 - Aurora
+
 - Azir
+
 - Bard
+
 - Belveth
+
 - Blitzcrank
+
 - Brand
+
 - Braum
+
 - Briar
+
 - Caitlyn
+
 - Camille
+
 - Cassiopeia
+
 - Cho'Gath
+
 - Corki
+
 - Darius
+
 - Diana
+
 - Dr. Mundo
+
 - Draven
+
 - Ekko
+
 - Elise
+
 - Evelynn
+
 - Ezreal
+
 - Fiddlesticks
+
 - Fiora
+
 - Fizz
+
 - Galio
+
 - Gangplank
+
 - Garen
+
 - Gnar
+
 - Gragas
+
 - Graves
+
 - Gwen
+
 - Hecarim
+
 - Heimerdinger
+
 - Hwei
+
 - Illaoi
+
 - Irelia
+
 - Ivern
+
 - Janna
+
 - Jarvan IV
+
 - Jax
+
 - Jayce
+
 - Jhin
+
 - Jinx
+
 - K’Sante
+
 - Kai'sa
+
 - Kalista
+
 - Karma
+
 - Karthus
+
 - Kassadin
+
 - Katarina
+
 - Kayle
+
 - Kayn
+
 - Kennen
+
 - Kha'Zix
+
 - Kindred
+
 - Kled
+
 - Kog'Maw
+
 - LeBlanc
+
 - Lee Sin
+
 - Leona
+
 - Lillia
+
 - Lissandra
+
 - Lucian
+
 - Lulu
+
 - Lux
+
 - Malphite
+
 - Malzahar
+
 - Maokai
+
 - Master Yi
+
 - Mel
+
 - Milio
+
 - Miss Fortune
+
 - Mordekaiser
+
 - Morgana
+
 - Naafiri
+
 - Nami
+
 - Nasus
+
 - Nautilus
+
 - Neeko
+
 - Nidalee
+
 - Nilah
+
 - Nocturne
+
 - Nunu
+
 - Olaf
+
 - Orianna
+
 - Ornn
+
 - Pantheon
+
 - Poppy
+
 - Pyke
+
 - Qiyana
+
 - Quinn
+
 - Rakan
+
 - Rammus
+
 - Rek'Sai
+
 - Rell
+
 - Renata (Glasc)
+
 - Renekton
+
 - Rengar
+
 - Riven
+
 - Rumble
+
 - Ryze
+
 - Samira
+
 - Sejuani
+
 - Senna
+
 - Seraphine
+
 - Sett
+
 - Shaco
+
 - Shen
+
 - Shyvana
+
 - Singed
+
 - Sion
+
 - Sivir
+
 - Skarner
+
 - Smolder
+
 - Sona
+
 - Soraka
+
 - Swain
+
 - Sylas
+
 - Syndra
+
 - Tahm kench
+
 - Taliyah
+
 - Talon
+
 - Taric
+
 - Teemo
+
 - Thresh
+
 - Tristana
+
 - Trundle
+
 - Tryndamere
+
 - Twisted Fate
+
 - Twitch
+
 - Udyr
+
 - Urgot
+
 - Varus
+
 - Vayne
+
 - Veigar
+
 - Vel'Koz
+
 - Vex
+
 - Vi
+
 - Viego
+
 - Viktor
+
 - Vladimir
+
 - Volibear
+
 - Warwick
+
 - Wukong
+
 - Xayah
+
 - Xerath
+
 - Xin Zhao
+
 - Yasuo
+
 - Yone
+
 - Yorick
+
 - Yunara
+
 - Yuumi
+
 - Zaahen
+
 - Zac
+
 - Zed
+
 - Zeri
+
 - Ziggs
+
 - Zilean
+
 - Zoe
+
 - Zyra
+</details>
 
 # Regions (10) 🟡
+<details open>
+
 - Bandle city
+
 - Bilgewater
+
 - Demacia
+
 - Ionia
+
 - Ixtal
+
 - Noxus
+
 - Targon
+
 - (The) Freljord
+
 - (The) Void
+
 - Zaun
 
+</details>
+
 # Items
+<details open>
+
 - Starter items
+
 - Potions and Consumables
+
 - Trinkets
+
 - Boots
+
 - Basic items
+
 - Legendary items
+    
     - Bruiser
+    
     - Tank
+    
     - Mage
+    
     - Assassin
+    
     - ADC
+    
     - Support
+
 - Arena Prismatic items
+
 - Arena exclusive items
+</details>
 
 # Arcane characters (4) 🔴
-- Violet
-- Powder
-- Vander
-- Silco
+Violet - Powder - Vander - Silco
 
 # Runes (16)
+<details open>
+
 - Precision     🟢
     + Press the Attack
     + Lethal Tempo
@@ -232,6 +434,7 @@
     + Glacial Augment
     + Unsealed Spellbook
     + First Strike
+</details>
 
 <!-- Urls
     https://ggmeo.com/bang-ngoc-bo-tro
