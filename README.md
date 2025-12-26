@@ -373,16 +373,40 @@
 
 # Items
 <details open>
+    
+- Starter items (6/14)
+     + Cull
+     + Dark seal
+     + Doran's Blade
+     + Doran's Ring
+     + Doran's Shield
+     + Tear of the Goddess
 
-- Starter items
+- Potions and Consumables (5/8)
+    + Control Ward
+    + Cappa juice
+    + Elixir of Iron
+    + Elixir of Sorcery
+    + Elixir of Wrath
 
-- Potions and Consumables
+- Trinkets (3/4)
+    + Farsight Alteration
+    + Oracle Lens
+    + Stealth Ward
 
-- Trinkets
-
-- Boots
+- Boots (8/16)
+    + Boots
+    + Berserker's Greaves
+    + Boots of Swiftness
+    + Ionian Boots of Lucidity
+    + Mercury's Treads
+    + Plated Steelcaps
+    + Sorcerer's Shoes
+    + Symbiotic Soles
 
 - Basic items
+
+- Epic items
 
 - Legendary items
     
@@ -447,11 +471,22 @@ Violet - Powder - Vander - Silco
     + Magical Footwear
 </details>
 
-<!-- Urls
-    https://ggmeo.com/bang-ngoc-bo-tro
-    https://wiki.leagueoflegends.com/en-us/TFT:List_of_champions
-    https://wiki.leagueoflegends.com/en-us/TFT:Item#Current
-    https://wiki.leagueoflegends.com/en-us/Rune#Rune_paths
-    https://wiki.leagueoflegends.com/en-us/Legendary_item
-    https://wiki.leagueoflegends.com/en-us/List_of_items
+# Others (temp)
+<details open>
+
+- Mastery 7
+</details>
+
+<!-- Sources ✔️❌
+    ✔️ https://www.leagueoflegends.com/en-us/champions/
+    ✔️ https://universe.leagueoflegends.com/en_US/regions/
+    ✔️ https://wiki.leagueoflegends.com/en-us/Rune#Rune_paths
+    ❌ https://wiki.leagueoflegends.com/en-us/Legendary_item
+    ❌ https://wiki.leagueoflegends.com/en-us/List_of_items
+    ❌ https://wiki.leagueoflegends.com/en-us/Monster
+    ❌ https://wiki.leagueoflegends.com/en-us/Category:Species
+    ❌ https://wiki.leagueoflegends.com/en-us/TFT:Item#Current
+
+    ❌ https://ggmeo.com/bang-ngoc-bo-tro
+    ❌ https://ggmeo.com/trang-bi-lmht
 -->
