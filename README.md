@@ -365,7 +365,7 @@
 
 - (The) Freljord
 
-- (The) Void
+- The Void
 
 - Zaun
 
@@ -406,7 +406,7 @@
 # Arcane characters (4) 🔴
 Violet - Powder - Vander - Silco
 
-# Runes (16)
+# Runes (27)
 <details open>
 
 - Precision     🟢
@@ -443,7 +443,7 @@ Violet - Powder - Vander - Silco
     + Glacial Augment
     + Unsealed Spellbook
     + First Strike
-    + Hextech Flashtraption
+    + Hexflash (Hextech Flashtraption)
     + Magical Footwear
 </details>
 
