@@ -200,14 +200,44 @@
 - Arena Prismatic items
 - Arena exclusive items
 
-- TFT champs
-// https://wiki.leagueoflegends.com/en-us/TFT:List_of_champions
-
-- TFT Items
-// https://wiki.leagueoflegends.com/en-us/TFT:Item#Current
-
 # Arcane characters (4) 🔴
 - Violet
 - Powder
 - Vander
 - Silco
+
+# Runes (16)
+- Precision     🟢
+    + Press the Attack
+    + Lethal Tempo
+    + Fleet Footwork
+    + Conqueror
+
+- Domination    🟢
+    + Electrocute
+    + Dark Harvest
+    + Hail of Blades
+
+- Sorcery       🟢
+    + Summon Aery
+    + Arcane Comet
+    + Phase Rush
+
+- Resolve       🟡
+    + Grasp of the Undying
+    + Aftershock
+    + Guardian
+
+- Inspiration   🟡
+    + Glacial Augment
+    + Unsealed Spellbook
+    + First Strike
+
+<!-- Urls
+    https://ggmeo.com/bang-ngoc-bo-tro
+    https://wiki.leagueoflegends.com/en-us/TFT:List_of_champions
+    https://wiki.leagueoflegends.com/en-us/TFT:Item#Current
+    https://wiki.leagueoflegends.com/en-us/Rune#Rune_paths
+    https://wiki.leagueoflegends.com/en-us/Legendary_item
+    https://wiki.leagueoflegends.com/en-us/List_of_items
+-->
