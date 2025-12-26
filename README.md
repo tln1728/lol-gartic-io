@@ -414,26 +414,37 @@ Violet - Powder - Vander - Silco
     + Lethal Tempo
     + Fleet Footwork
     + Conqueror
+    + Coup de Grace
+    + Cut Down
+    + Last Stand
 
 - Domination    🟢
     + Electrocute
     + Dark Harvest
     + Hail of Blades
+    + Treasure Hunter
 
 - Sorcery       🟢
     + Summon Aery
     + Arcane Comet
     + Phase Rush
+    + Gathering Storm
+    + Waterwalking
 
 - Resolve       🟡
     + Grasp of the Undying
     + Aftershock
     + Guardian
+    + Demolish
+    + Shield Bash
+    + Bone Plating
 
 - Inspiration   🟡
     + Glacial Augment
     + Unsealed Spellbook
     + First Strike
+    + Hextech Flashtraption
+    + Magical Footwear
 </details>
 
 <!-- Urls
