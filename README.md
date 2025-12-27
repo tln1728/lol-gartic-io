@@ -404,9 +404,16 @@
     + Sorcerer's Shoes
     + Symbiotic Soles
 
-- Basic items
+- Basic items (2/15)
+    + BF Sword
+    + Needlessly Large Rod
 
-- Epic items
+- Epic items (5/48)
+    + Vampiric Scepter
+    + Quicksilver Sash
+    + Serrated Dirk
+    + Sheen
+    + Tiamat
 
 - Legendary items
     
