@@ -108,7 +108,7 @@
 - Rammus
 - Rek'Sai
 - Rell
-- Renata (Glasc)
+- Renata Glasc
 - Renekton
 - Rengar
 - Riven
@@ -191,7 +191,7 @@
 
 </details>
 
-# Items
+# Items (192)
 <details open>
 
 <details>
@@ -402,64 +402,81 @@
             <!-- Vigilant Wardstone -->
             <!-- <li></li> -->
         </ol>
-        </details>
+    </details>
 </details>
 
 <details>
     <summary>Arena Prismatic items (48) 🔴</summary>
-
-    Black Hole Gauntlet
-    Cloak of Starry Night
-    Crown of the Shattered Queen
-    Cruelty
-    Darksteel Talons
-    Decapitator
-    Demon King's Crown
-    Demonic Embrace
-    Detonation Orb
-    Diamond(-)Tipped Spear
-    Divine Sunderer
-    Dragonheart
-    Duskblade of Draktharr
-    Eleisa's Miracle
-    Empyrean Promise
-    Everfrost
-    Flesheater
-    Force of Entropy
-    Fulmination
-    Galeforce
-    Gambler's Blade
-    Gargoyle Stoneplate
-    Goredrinker
-    Hamstringer
-    Hemomancer's Helm
-    Hexbolt Companion
-    Innervating Locket
-    Kinkou Jitte
-    Lightning Rod
-    Mirage Blade
-    Moonflair Spellblade
-    Night Harvester
-    Prowler's Claw
-    Puppeteer
-    Pyromancer's Cloak
-    Radiant Virtue
-    Reality Fracture
-    Reaper's Toll
-    Regicide
-    Reverberation
-    Runecarver
-    Sanguine Gift
-    Shield of Molten Stone
-    Sword of the Divine
-    Talisman of Ascension
-    Turbo Chemtank
-    Twilight's Edge
-    Twin Mask
-
+    <ol type="1">
+        <li>Black Hole Gauntlet</li>
+        <li>Cloak of Starry Night</li>
+        <li>Crown of the Shattered Queen</li>
+        <li>Cruelty</li>
+        <li>Darksteel Talons</li>
+        <li>Decapitator</li>
+        <li>Demon King's Crown</li>
+        <li>Demonic Embrace</li>
+        <li>Detonation Orb</li>
+        <li>Diamond(-)Tipped Spear</li>
+        <li>Divine Sunderer</li>
+        <li>Dragonheart</li>
+        <li>Duskblade of Draktharr</li>
+        <li>Eleisa's Miracle</li>
+        <li>Empyrean Promise</li>
+        <li>Everfrost</li>
+        <li>Flesheater</li>
+        <li>Force of Entropy</li>
+        <li>Fulmination</li>
+        <li>Galeforce</li>
+        <li>Gambler's Blade</li>
+        <li>Gargoyle Stoneplate</li>
+        <li>Goredrinker</li>
+        <li>Hamstringer</li>
+        <li>Hemomancer's Helm</li>
+        <li>Hexbolt Companion</li>
+        <li>Innervating Locket</li>
+        <li>Kinkou Jitte</li>
+        <li>Lightning Rod</li>
+        <li>Mirage Blade</li>
+        <li>Moonflair Spellblade</li>
+        <li>Night Harvester</li>
+        <li>Prowler's Claw</li>
+        <li>Puppeteer</li>
+        <li>Pyromancer's Cloak</li>
+        <li>Radiant Virtue</li>
+        <li>Reality Fracture</li>
+        <li>Reaper's Toll</li>
+        <li>Regicide</li>
+        <li>Reverberation</li>
+        <li>Runecarver</li>
+        <li>Sanguine Gift</li>
+        <li>Shield of Molten Stone</li>
+        <li>Sword of the Divine</li>
+        <li>Talisman of Ascension</li>
+        <li>Turbo Chemtank</li>
+        <li>Twilight's Edge</li>
+        <li>Twin Mask</li>
+    </ol>
 </details>
 
-- Arena exclusive items
+<details>
+    <summary>Arena exclusive items (12) 🔴</summary>
+    <ol type="1">
+        <li>Anathema's Chains</li>
+        <li>Atma's Reckoning</li>
+        <li>Ghostcrawlers</li>
+        <li>Hellfire Hatchet</li>
+        <li>Hextech Gunblade</li>
+        <li>Perplexity</li>
+        <li>Rite of Ruin</li>
+        <li>Stormrazor</li>
+        <li>The Golden Spatula</li>
+        <li>Wooglet's Witchcap</li>
+        <li>Wordless Promise </li>
+        <li>Zephyr</li>
+    </ol>
+</details>
+
 </details>
 
 # Arcane characters (4) 🔴
@@ -520,8 +537,11 @@ Violet - Powder - Vander - Silco
     ❌ https://wiki.leagueoflegends.com/en-us/List_of_items
     ❌ https://wiki.leagueoflegends.com/en-us/Monster
     ❌ https://wiki.leagueoflegends.com/en-us/Category:Species
+    ❌ https://wiki.leagueoflegends.com/en-us/Arena/Augments
     ❌ https://wiki.leagueoflegends.com/en-us/TFT:Item#Current
 
     ❌ https://ggmeo.com/bang-ngoc-bo-tro
     ❌ https://ggmeo.com/trang-bi-lmht
+    ❌ https://blitz.gg/lol/tierlist/arena (items?)
+    ❌ https://blitz.gg/lol/arena (augments)
 -->
