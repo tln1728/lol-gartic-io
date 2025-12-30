@@ -375,7 +375,7 @@
             <li>Đại bác liên thanh</li>
             <li>Cuồng cung Runaan</li>
             <li>Dao điện Statikk</li>
-            <li>Terminus</li>
+            <li>Cung chạng vạng</li>
             <li>Mũi tên Yun Tai</li>
             <!-- <li></li> -->
         </ol>
@@ -412,72 +412,72 @@
 <details>
     <summary>Trang bị Tối thượng Võ đài (48) 🔴</summary>
     <ol type="1">
-        <li>Black Hole Gauntlet</li>
-        <li>Cloak of Starry Night</li>
-        <li>Crown of the Shattered Queen</li>
-        <li>Cruelty</li>
-        <li>Darksteel Talons</li>
-        <li>Decapitator</li>
-        <li>Demon King's Crown</li>
-        <li>Demonic Embrace</li>
-        <li>Detonation Orb</li>
-        <li>Diamond(-)Tipped Spear</li>
-        <li>Divine Sunderer</li>
-        <li>Dragonheart</li>
-        <li>Duskblade of Draktharr</li>
-        <li>Eleisa's Miracle</li>
-        <li>Empyrean Promise</li>
-        <li>Everfrost</li>
-        <li>Flesheater</li>
-        <li>Force of Entropy</li>
-        <li>Fulmination</li>
-        <li>Galeforce</li>
-        <li>Gambler's Blade</li>
-        <li>Gargoyle Stoneplate</li>
-        <li>Goredrinker</li>
-        <li>Hamstringer</li>
-        <li>Hemomancer's Helm</li>
-        <li>Hexbolt Companion</li>
-        <li>Innervating Locket</li>
-        <li>Kinkou Jitte</li>
-        <li>Lightning Rod</li>
-        <li>Mirage Blade</li>
-        <li>Moonflair Spellblade</li>
-        <li>Night Harvester</li>
-        <li>Prowler's Claw</li>
-        <li>Puppeteer</li>
-        <li>Pyromancer's Cloak</li>
-        <li>Radiant Virtue</li>
-        <li>Reality Fracture</li>
-        <li>Reaper's Toll</li>
-        <li>Regicide</li>
-        <li>Reverberation</li>
-        <li>Runecarver</li>
-        <li>Sanguine Gift</li>
-        <li>Shield of Molten Stone</li>
-        <li>Sword of the Divine</li>
-        <li>Talisman of Ascension</li>
-        <li>Turbo Chemtank</li>
-        <li>Twilight's Edge</li>
-        <li>Twin Mask</li>
+        <li>Găng Tay Hố Đen</li>
+        <li>Áo Choàng Sao Đêm</li>
+        <li>Vương miện suy vong</li>
+        <li>Chùy Tàn Độc</li>
+        <li>Móng vuốt hắc thiết</li>
+        <li>Gươm Đa Năng</li>
+        <li>Vương miện quỷ vương</li>
+        <li>Mũ Trụ Nguyền Rủa</li>
+        <li>Ngọc Phát Nổ</li>
+        <li>Mũi Giáo Kim Cương</li>
+        <li>Búa rìu sát thần</li>
+        <li>Trái tim rồng</li>
+        <li>Dạ Kiếm Draktharr</li>
+        <li>Ngọc eleisa màu nhiệm</li>
+        <li>Nhẫn hoả ảnh</li>
+        <li>Băng trượng vĩnh cửu</li>
+        <li>Huyết đao</li>
+        <li>Búa loạn đả</li>
+        <li>Rìu bùng phát</li>
+        <li>Cung phong linh</li>
+        <li>Kiếm của tay bạc</li>
+        <li>Thú Tượng Thạch Giáp</li>
+        <li>Chùy Hấp Huyết</li>
+        <li>Gươm tê liệt</li>
+        <li>Mũ huyết thuật</li>
+        <li>Tinh linh tia hextech</li>
+        <li>Dây Chuyền Tự Lực</li>
+        <li>Lưỡi Kiếm Kinkou</li>
+        <li>Cột Thu Lôi</li>
+        <li>Gươm Ảo Ảnh</li>
+        <li>Ngyệt kiếm</li>
+        <li>Lưỡi Hái Bóng Đêm</li>
+        <li>Móng Vuốt Ám Muội</li>
+        <li>Kẻ Múa Rối</li>
+        <li>Áo Choàng Phóng Hỏa</li>
+        <li>Ngọn Đuốc Thánh Quang</li>
+        <li>Gươm Đảo Lộn Thực Tại</li>
+        <li>Vết chém thần chết</li>
+        <li>Đảo Chính</li>
+        <li>Âm dội</li>
+        <li>Trượng Cổ Ngữ</li>
+        <li>Dây Chuyền Huyết Sắc</li>
+        <li>Lá chắn đá dung nham</li>
+        <li>Ỷ thiên kiếm</li>
+        <li>Bùa thăng hoa</li>
+        <li>Giáp Gia Tốc Hóa Cuồng</li>
+        <li>Lưỡi kiếm hoàng hôn</li>
+        <li>Mặt nạ song sinh</li>
     </ol>
 </details>
 
 <details>
     <summary>Trang bị độc quyền Võ đài(12) 🔴</summary>
     <ol type="1">
-        <li>Anathema's Chains</li>
-        <li>Atma's Reckoning</li>
-        <li>Ghostcrawlers</li>
-        <li>Hellfire Hatchet</li>
-        <li>Hextech Gunblade</li>
-        <li>Perplexity</li>
-        <li>Rite of Ruin</li>
-        <li>Stormrazor</li>
-        <li>The Golden Spatula</li>
-        <li>Wooglet's Witchcap</li>
-        <li>Wordless Promise </li>
-        <li>Zephyr</li>
+        <li>Găng xích thù hận</li>
+        <li>Trường thương atma</li>
+        <li>Phân tách vật chất</li>
+        <li>Rìu hoả ngục</li>
+        <li>Kiếm súng hextech</li>
+        <li>Cầu xuyên phá</li>
+        <li>Nghi thức suy vong</li>
+        <li>Phong thần kiếm</li>
+        <li>Xẻng vàng ròng</li>
+        <li>Mũ phù thuỷ Wooglet</li>
+        <li>Nhẫn ước hẹn</li>
+        <li>Phong Kiếm</li>
     </ol>
 </details>
 
@@ -537,6 +537,6 @@ Violet - Powder - Vander - Silco
 <!-- Sources ✔️❌
     ❌ https://ggmeo.com/bang-ngoc-bo-tro
     ✔️ https://ggmeo.com/trang-bi-lmht
-    ❌ https://blitz.gg/lol/tierlist/arena (items?)
+    ✔️ https://eflol.com/items/ (items)
     ❌ https://blitz.gg/lol/arena (augments)
 -->
