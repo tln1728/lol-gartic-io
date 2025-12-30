@@ -1,3 +1,7 @@
+🟢 218
+🟡 108
+🔴 81
+
 # Champions (172) 🟢
 <details open>
 
@@ -191,7 +195,7 @@
 
 </details>
 
-# Items (192)
+# Items (193)
 <details open>
 
 <details>
@@ -378,7 +382,7 @@
     </details>
     <!------------------------------------------>
     <details open>
-        <summary>Support (16/20) 🔴</summary>
+        <summary>Support (17/20) 🔴</summary>
         <ol type="1">
             <li>Ardent Censer</li>
             <li>Shurelya's Battlesong</li>
@@ -485,8 +489,8 @@ Violet - Powder - Vander - Silco
 # Runes (27)
 <details open>
 
-- Precision     🟢
-    + Press the Attack
+- Precision (7) 🟢
+    + Press (the) Attack
     + Lethal Tempo
     + Fleet Footwork
     + Conqueror
@@ -494,20 +498,21 @@ Violet - Powder - Vander - Silco
     + Cut Down
     + Last Stand
 
-- Domination    🟢
+- Domination (5) 🟢
     + Electrocute
     + Dark Harvest
     + Hail of Blades
     + Treasure Hunter
+    + Deep Ward
 
-- Sorcery       🟢
+- Sorcery (5) 🟢
     + Summon Aery
     + Arcane Comet
     + Phase Rush
     + Gathering Storm
     + Waterwalking
 
-- Resolve       🟡
+- Resolve (6) 🟡
     + Grasp of the Undying
     + Aftershock
     + Guardian
@@ -515,7 +520,7 @@ Violet - Powder - Vander - Silco
     + Shield Bash
     + Bone Plating
 
-- Inspiration   🟡
+- Inspiration (5) 🟡
     + Glacial Augment
     + Unsealed Spellbook
     + First Strike
@@ -539,9 +544,4 @@ Violet - Powder - Vander - Silco
     ❌ https://wiki.leagueoflegends.com/en-us/Category:Species
     ❌ https://wiki.leagueoflegends.com/en-us/Arena/Augments
     ❌ https://wiki.leagueoflegends.com/en-us/TFT:Item#Current
-
-    ❌ https://ggmeo.com/bang-ngoc-bo-tro
-    ❌ https://ggmeo.com/trang-bi-lmht
-    ❌ https://blitz.gg/lol/tierlist/arena (items?)
-    ❌ https://blitz.gg/lol/arena (augments)
 -->
