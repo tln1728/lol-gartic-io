@@ -1,5 +1,5 @@
 🟢 218
-🟡 108
+🟡 132
 🔴 81
 
 # Champions (172) 🟢
@@ -528,10 +528,56 @@ Violet - Powder - Vander - Silco
     + Magical Footwear
 </details>
 
+# Monsters (18)
+<details>
+    <summary>Epic monsters (11) 🟡</summary>
+    <ol type="1">
+        <li>Atakhan</li>
+        <li>Chemtech Drake</li>
+        <li>Cloud Drake</li>
+        <li>Cloud Drake</li>
+        <li>Hextech Drake</li>
+        <li>Infernal Drake</li>
+        <li>Mountain Drake</li>
+        <li>Ocean Drake</li>
+        <li>Elder Dragon</li>
+        <li>Baron Nashor</li>
+        <li>Voidgrub</li>
+    </ol>
+</details>
+
+<!--  "Drake" creatures are treated as elemental manifestations or lesser forms, while the Elder Dragon is the true, ancient "Dragon" ... -->
+
+<details>
+    <summary>Large monsters (7) 🟡</summary>
+    <ol type="1">
+        <li>(Ancient) Krug</li>
+        <li>Gromp</li>
+        <li>Blue buff (Sentinel)</li>
+        <li>Red buff (Brambleback)</li>
+        <li>(Crimson) Raptor</li>
+        <li>Rift Scuttler</li>
+        <li>(Greater) Murk Wolf</li>
+    </ol>
+</details>
+
+# Species (6) 🟡
+<details open>
+
+- Blast Cone
+- Poro
+- Minion
+- Vilemaw
+- Honeyfruit
+- Scryer's Bloom
+
+</details>
+
 # Others (temp)
 <details open>
 
 - Mastery 7
+- Twisted Treeline
 </details>
 
 <!-- Sources ✔️❌
@@ -540,8 +586,9 @@ Violet - Powder - Vander - Silco
     ✔️ https://wiki.leagueoflegends.com/en-us/Rune#Rune_paths
     ✔️ https://wiki.leagueoflegends.com/en-us/Legendary_item
     ❌ https://wiki.leagueoflegends.com/en-us/List_of_items
-    ❌ https://wiki.leagueoflegends.com/en-us/Monster
-    ❌ https://wiki.leagueoflegends.com/en-us/Category:Species
+    ✔️ https://wiki.leagueoflegends.com/en-us/Monster
+    ✔️ https://wiki.leagueoflegends.com/en-us/Category:Species
     ❌ https://wiki.leagueoflegends.com/en-us/Arena/Augments
     ❌ https://wiki.leagueoflegends.com/en-us/TFT:Item#Current
+    ❌ https://wiki.leagueoflegends.com/en-us/Category:League_of_Legends_game_modes
 -->
