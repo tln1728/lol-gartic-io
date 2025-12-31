@@ -1,6 +1,6 @@
 🟢 218
-🟡 132
-🔴 81
+🟡 135
+🔴 86
 
 # Champions (172) 🟢
 <details open>
@@ -535,13 +535,13 @@ Violet - Powder - Vander - Silco
         <li>Atakhan</li>
         <li>Chemtech Drake</li>
         <li>Cloud Drake</li>
-        <li>Cloud Drake</li>
         <li>Hextech Drake</li>
         <li>Infernal Drake</li>
         <li>Mountain Drake</li>
         <li>Ocean Drake</li>
         <li>Elder Dragon</li>
         <li>Baron Nashor</li>
+        <li>Rift Herald</li>
         <li>Voidgrub</li>
     </ol>
 </details>
@@ -561,15 +561,29 @@ Violet - Powder - Vander - Silco
     </ol>
 </details>
 
-# Species (6) 🟡
+# Species (9) 🟡
 <details open>
 
 - Blast Cone
 - Poro
-- Minion
+- Melee Minion
+- Caster Minion
+- (Siege) Cannon Minion
+- Super Minion
 - Vilemaw
 - Honeyfruit
 - Scryer's Bloom
+
+</details>
+
+# Maps (5) 
+<details open>
+
+- Summoner's Rift
+- Howling abyss
+- Butcher's Bridge
+- Koeshin’s Crossing
+- Twisted treeline
 
 </details>
 
@@ -588,7 +602,9 @@ Violet - Powder - Vander - Silco
     ❌ https://wiki.leagueoflegends.com/en-us/List_of_items
     ✔️ https://wiki.leagueoflegends.com/en-us/Monster
     ✔️ https://wiki.leagueoflegends.com/en-us/Category:Species
+    ✔️ https://wiki.leagueoflegends.com/en-us/ARAM
     ❌ https://wiki.leagueoflegends.com/en-us/Arena/Augments
     ❌ https://wiki.leagueoflegends.com/en-us/TFT:Item#Current
     ❌ https://wiki.leagueoflegends.com/en-us/Category:League_of_Legends_game_modes
+    currency
 -->
