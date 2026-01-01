@@ -1,5 +1,5 @@
 🟢 218
-🟡 108
+🟡 134 (-1 Honeyfruit)
 🔴 81
 
 # Tướng (172) 🟢
@@ -528,10 +528,70 @@ Violet - Powder - Vander - Silco
     + Bước chân màu nhiệm
 </details>
 
-# Others (temp)
+# Quái rừng (18)
+<details>
+    <summary>Quái khủng (11) 🟡</summary>
+    <ol type="1">
+        <li>Atakhan</li>
+        <li>Rồng hoá kỹ</li>
+        <li>Rồng gió</li>
+        <li>Rồng công nghệ</li>
+        <li>Rổng lửa</li>
+        <li>Rồng đất</li>
+        <li>Rồng nước</li>
+        <li>Rồng ngàn tuổi</li>
+        <li>Baron Nashor</li>
+        <li>Sứ giả khe nứt</li>
+        <li>Sâu hư không</li>
+    </ol>
+</details>
+
+<!--  "Drake" creatures are treated as elemental manifestations or lesser forms, while the Elder Dragon is the true, ancient "Dragon" ... -->
+
+<details>
+    <summary>Quái to (7) 🟡</summary>
+    <ol type="1">
+        <li>Quái đá</li>
+        <li>Cóc thành tinh</li>
+        <li>Bùa xanh</li>
+        <li>Bùa đỏ</li>
+        <li>Chim biến dị</li>
+        <li>Cua kỳ cục</li>
+        <li>Sói hắc ám</li>
+    </ol>
+</details>
+
+# Loài (9) 🟡
 <details open>
 
-- Mastery 7
+- Hạt thông nổ
+- Poro
+- Lính cận chiến
+- Lính đánh xa
+- Lính xe pháo
+- Lính siêu cấp
+- Vilemaw
+- Honeyfruit
+- Hoa soi sáng
+
+</details>
+
+# Bản đồ (5) 
+<details open>
+
+- Summoner's Rift
+- Vực gió hú
+- Cầu đồ tể
+- Độc Đạo Koeshin
+- Khu rừng quỷ dị
+
+</details>
+
+# Khác (temp) 
+<details open>
+
+- Thông thạo 7
+- Pentakill
 </details>
 
 <!-- Sources ✔️❌
@@ -539,4 +599,5 @@ Violet - Powder - Vander - Silco
     ✔️ https://ggmeo.com/trang-bi-lmht
     ✔️ https://eflol.com/items/ (items)
     ❌ https://blitz.gg/lol/arena (augments)
+    ❌ https://www.thegioididong.com/game-app/tong-hop-cac-thuat-ngu-trong-lol-ad-afk-cover-smuft-noob-la-1300637 (others)
 -->
