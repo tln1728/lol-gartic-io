@@ -1,6 +1,6 @@
 🟢 218
 🟡 135
-🔴 86
+🔴 100
 
 # Champions (172) 🟢
 <details open>
@@ -576,7 +576,7 @@ Violet - Powder - Vander - Silco
 
 </details>
 
-# Maps (5) 
+# Maps (5) 🔴
 <details open>
 
 - Summoner's Rift
@@ -587,11 +587,29 @@ Violet - Powder - Vander - Silco
 
 </details>
 
-# Others (temp)
+# Game modes (12) 🔴
+<details open>
+
+- ARAM
+- Aram Mayhem
+- Ultra Rapid Fire
+- ARURF
+- One for all
+- Ultimate spellbook
+- Doom Bots
+- Nexus Blitz
+- Arena
+- Ascension
+- Dark Star Singularity
+- TFT
+<!-- Snow Battle ARURF -->
+</details>
+
+# Others (2) 🔴
 <details open>
 
 - Mastery 7
-- Twisted Treeline
+- Pentakill
 </details>
 
 <!-- Sources ✔️❌
