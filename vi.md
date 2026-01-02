@@ -1,6 +1,6 @@
 🟢 218
 🟡 134 (-1 Honeyfruit)
-🔴 81
+🔴 101
 
 # Tướng (172) 🟢
 <details open>
@@ -587,7 +587,28 @@ Violet - Powder - Vander - Silco
 
 </details>
 
-# Khác (temp) 
+# Chế độ chơi (13) 🔴
+<details open>
+
+- ARAM
+- Aram hỗn loạn
+- Ultra Rapid Fire
+- ARURF
+- Một cho tất cả
+- Sách phép tối thượng
+- Máy siêu khủng khiếp
+- Đột kích nhà chính
+- Nhà chính thất thủ
+- Võ Đài
+- Thăng hoa
+- Hắc tinh Điểm kỳ dị
+- TFT
+<!-- Đại chiến cầu tuyết ARURF -->
+<!-- Odyssey - Phi đội không gian -->
+<!-- Hexakill -->
+</details>
+
+# Khác (2) 🔴
 <details open>
 
 - Thông thạo 7
@@ -595,9 +616,10 @@ Violet - Powder - Vander - Silco
 </details>
 
 <!-- Sources ✔️❌
-    ❌ https://ggmeo.com/bang-ngoc-bo-tro
+    ✔️ https://ggmeo.com/bang-ngoc-bo-tro (runes)
     ✔️ https://ggmeo.com/trang-bi-lmht
     ✔️ https://eflol.com/items/ (items)
     ❌ https://blitz.gg/lol/arena (augments)
     ❌ https://www.thegioididong.com/game-app/tong-hop-cac-thuat-ngu-trong-lol-ad-afk-cover-smuft-noob-la-1300637 (others)
+    ✔️ https://www.youtube.com/watch?v=g7n_HwT2J44 (game modes)
 -->
