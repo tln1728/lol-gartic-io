@@ -598,6 +598,7 @@ Violet - Powder - Vander - Silco
 - Ultimate spellbook
 - Doom Bots
 - Nexus Blitz
+- Nexus siege
 - Arena
 - Ascension
 - Dark Star Singularity
@@ -623,6 +624,6 @@ Violet - Powder - Vander - Silco
     ✔️ https://wiki.leagueoflegends.com/en-us/ARAM
     ❌ https://wiki.leagueoflegends.com/en-us/Arena/Augments
     ❌ https://wiki.leagueoflegends.com/en-us/TFT:Item#Current
-    ❌ https://wiki.leagueoflegends.com/en-us/Category:League_of_Legends_game_modes
+    ✔️ https://wiki.leagueoflegends.com/en-us/Category:League_of_Legends_game_modes
     currency
 -->
