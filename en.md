@@ -1,6 +1,6 @@
 🟢 218
 🟡 135
-🔴 100
+🔴 101
 
 # Champions (172) 🟢
 <details open>
@@ -598,7 +598,7 @@ Violet - Powder - Vander - Silco
 - Ultimate spellbook
 - Doom Bots
 - Nexus Blitz
-- Nexus siege
+- Nexus Siege
 - Arena
 - Ascension
 - Dark Star Singularity
