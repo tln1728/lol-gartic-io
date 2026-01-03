@@ -556,7 +556,7 @@ Violet - Powder - Vander - Silco
         <li>Blue buff (Sentinel)</li>
         <li>Red buff (Brambleback)</li>
         <li>(Crimson) Raptor</li>
-        <li>Rift Scuttler</li>
+        <li>Scuttler</li>
         <li>(Greater) Murk Wolf</li>
     </ol>
 </details>
