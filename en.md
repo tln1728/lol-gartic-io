@@ -1,5 +1,5 @@
 🟢 218
-🟡 135
+🟡 138
 🔴 101
 
 # Champions (172) 🟢
@@ -179,7 +179,7 @@
 - Zyra
 </details>
 
-# Regions (10) 🟡
+# Regions (13) 🟡
 <details open>
 
 - Bandle city
@@ -192,6 +192,9 @@
 - (The) Freljord
 - The Void
 - Zaun
+- Shurima
+- Shadow Isles
+- Piltover
 
 </details>
 
