@@ -1,6 +1,6 @@
-🟢 218
+🟢 229
 🟡 138
-🔴 101
+🔴 104
 
 # Champions (172) 🟢
 <details open>
@@ -590,7 +590,7 @@ Violet - Powder - Vander - Silco
 
 </details>
 
-# Game modes (12) 🔴
+# Game modes (15) 🔴
 <details open>
 
 - ARAM
@@ -606,14 +606,32 @@ Violet - Powder - Vander - Silco
 - Ascension
 - Dark Star Singularity
 - TFT
-<!-- Snow Battle ARURF -->
+- Snow Battle ARURF
+- Hexakill
 </details>
 
-# Others (2) 🔴
+# Summoner Spells (11) 🟢
+<details open>
+
+- Heal
+- Ghost
+- Barrier
+- Exhaust
+- Mark
+- Clarity
+- Flash
+- Teleport
+- Smite
+- Cleanse
+- Ignite
+</details>
+
+# Others (3) 🔴
 <details open>
 
 - Mastery 7
 - Pentakill
+- Faker
 </details>
 
 <!-- Sources ✔️❌
